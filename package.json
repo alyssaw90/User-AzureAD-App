@@ -1,0 +1,22 @@
+{
+  "name": "user-azuread-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyssaw90/User-AzureAD-App.git"
+  },
+  "author": "Alyssa Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyssaw90/User-AzureAD-App/issues"
+  },
+  "homepage": "https://github.com/alyssaw90/User-AzureAD-App#readme",
+  "dependencies": {
+    "express-ejs-layouts": "^2.2.0"
+  }
+}
